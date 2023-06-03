@@ -1,19 +1,19 @@
 {
-  "name": "manoj-multi-device",
+  "name": "QUEEN NICKY-multi-device",
   "version": "1.0.0",
   "description": "World Best Whatsapp Bot.",
   "main": "./index.js",
   "scripts": {
-    "start": "bash manoj-multi-device-whatsapp-start.sh"
+    "start": "bash QUEEN NICKY-multi-device-whatsapp-start.sh"
   },
-  "author": "Ravindu Manoj",
+  "author": "QUEEN NICKY",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ravindu01manoj/Manoj-Md/issues"
+    "url": "https://github.com/QUEENNICKY/Queen-nicky/issues"
   },
-  "homepage": "https://github.com/ravindu01manoj/Manoj-Md#readme",
+  "homepage": "https://github.com/QUEENNICKY/Queen-nicky#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/ravindu01manoj/baileys",
+    "@adiwajshing/baileys": "git+https://github.com/QUEENNICKY/Queen-nicky/baileys",
     "@ravindu01manoj/bash-js": "*",
     "axios": "^0.26.1",
     "cors": "^2.8.5",
@@ -38,6 +38,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravindu01manoj/Manoj-Md.git"
+    "url": "git+https://github.com/QUEENNICKY/Queen-nicky.git"
   }
 }
