@@ -27,7 +27,7 @@ module.exports = {
 		type: type_bot,
 		category: 'main',
 		desc: () => string().alive.desc,
-		react: '🙋‍♂️'
+		react: '📡'
 	},
 	antispam: {
 		command: [ 'antispam' ],
@@ -248,7 +248,7 @@ module.exports = {
 		type: 'private',
 		category: 'profile',
 		desc: () => 'eval javascript codes',
-		react: '📡'
+		react: '📍'
 	},
 	encrypt: {
 		command: [ 'encrypt' ],
