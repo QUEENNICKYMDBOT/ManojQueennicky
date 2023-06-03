@@ -12,7 +12,7 @@ module.exports = {
 			updated_db : '✅ Database Updated Successfull',
 			ins_cmd : '🌐 Installing Commands...',
 			insd_cmd : '✅ Installation Successfull...',
-			session_error : 'Your Session Is Invalid... Please Rescan And Update The ENV ( https://ravindu01manoj.github.io/ravindu01manoj/qr )',
+			session_error : 'Your Session Is Invalid... Please Rescan And Update The ENV ( https://QUEENNICKY.github.io/queennicky/qr )',
 			db_invalid : 'Your Database Url Is Invalid... Please Input Valid Mongodb Database Url As env [DBURI]'
 		}
 	}
