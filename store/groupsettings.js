@@ -1,4 +1,4 @@
-const { GroupSetting } = Ravindu
+const { GroupSetting } = queennicky
 const { GroupSendMessage, textmodify, imgload, isValidObject } = GroupSetting
 module.exports = async(core) => {
 	if(!core.messageStubType) {
