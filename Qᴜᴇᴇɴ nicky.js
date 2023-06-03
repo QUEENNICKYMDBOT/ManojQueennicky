@@ -1,5 +1,5 @@
 /*
-Manoj Md Whatsapp Bot
+queen nicky Md Whatsapp Bot
 
 Telegram: https://t.me/RavinduManoj
 Facebook: https://www.facebook.com/ravindu.manoj.79
