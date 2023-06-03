@@ -1,6 +1,6 @@
-FROM ravindu01manoj/core:v0.0.52
+FROM queennicky/core:v0.0.52
 
-RUN git clone https://github.com/ravindu01manoj/Manoj-Md $MANOJ_MULTI_DEVICE
-WORKDIR $MANOJ_MULTI_DEVICE
+RUN git clone https://github.com/QUEENNICKY/Queen-nicky $queennicky_MULTI_DEVICE
+WORKDIR $queennicky_MULTI_DEVICE
 
-ENTRYPOINT ["bash","manoj-multi-device-whatsapp-start.sh"]
+ENTRYPOINT ["bash","queennicky-multi-device-whatsapp-start.sh"]
