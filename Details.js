@@ -1,16 +1,16 @@
 /*
-Manoj Md Whatsapp Bot
+QUEEN NICKY Md Whatsapp Bot
 
-Telegram: https://t.me/RavinduManoj
-Facebook: https://www.facebook.com/ravindu.manoj.79
-Youtube: https://youtube.com/c/TechToFuture
+whatsapp: https://chat.whatsapp.com/E8F5pT0vqVbJjYEYcmQnBr
+Facebook: https://www.facebook.com.79
+Youtube: https://youtube.com/@divertflowers5821
 
-Coded By Ravindu Manoj
+Coded By Dumidu 
 */
 module.export = {
-	name: 'Manoj Multi-device Whatsapp Bot',
+	name: 'QUEEN NICKY Multi-device Whatsapp Bot',
 	version: require('./pre-package.json').version,
 	branch: 'master',
 	author: require('./pre-package.json').author,
-	ravindumanoj_api_key : process.env.Ravindu_Manoj_Api || 'YourApiKey' // go to https://ravindumanoj.ml/api
+	QUEENNICKY_api_key : process.env.queen_nicky_Api || 'YourApiKey' // go to https://QUEENNICKY.ml/api
 }
